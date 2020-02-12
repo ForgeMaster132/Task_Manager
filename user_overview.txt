@@ -1,0 +1,30 @@
+Total users			:4
+Total tasks			:3
+
+admin
+Tasks assigned			:2
+Tasks assigned of total tasks	:66.7%
+Tasks assigned completed	:100.0%
+Tasks assigned incomplete	:0.0%
+Tasks assigned overdue		:0.0%
+
+Dayle
+Tasks assigned			:1
+Tasks assigned of total tasks	:33.3%
+Tasks assigned completed	:100.0%
+Tasks assigned incomplete	:0.0%
+Tasks assigned overdue		:0.0%
+
+Lex
+Tasks assigned			:0
+Tasks assigned of total tasks	:0%
+Tasks assigned completed	:0%
+Tasks assigned incomplete	:0%
+Tasks assigned overdue		:0%
+
+Aden
+Tasks assigned			:0
+Tasks assigned of total tasks	:0%
+Tasks assigned completed	:0%
+Tasks assigned incomplete	:0%
+Tasks assigned overdue		:0%
